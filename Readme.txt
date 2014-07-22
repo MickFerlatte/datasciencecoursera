@@ -1,0 +1,3 @@
+This is the directory for my Data Science Toolbox corse from corsera.
+
+Explanatory notes: ....
